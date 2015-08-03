@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+f{
+	float:right;
+	
+	}
+a1{
+	font-family: "宋体";
+	color: #FFFFFF;
+	font-size: 20px;
+	}
+a2{
+	font-family: "华文琥珀";
+	font-size: 50px;
+	color: #FFCC99;	
+	
+	}
+a3{
+	color: #FF9999;
+	font-size: 50px;
+	font-family: "华文彩云";
+	}
+tr{
+	color: #CC6666;
+	}
+a4{
+	color: #000000;
+	font-size: 20px;
+	}
+a6{
+	font-size: 25px;
+
+	}

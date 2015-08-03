@@ -1,7 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>未标题-2</title>
+<!-- TemplateEndEditable -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- Save for Web Styles (未标题-2.psd) -->
 <style type="text/css">
@@ -133,7 +135,7 @@
 	top: 472px;
 	width: 220px;
 	height: 201px;
-	background-image: url(images/%E6%9C%AA%E6%A0%87%E9%A2%98-2_15.gif);
+	background-image: url(../images/%E6%9C%AA%E6%A0%87%E9%A2%98-2_15.gif);
 }
 
 #x672ax6807x9898-2-16_ {
@@ -150,7 +152,7 @@
 	top: 472px;
 	width: 622px;
 	height: 624px;
-	background-image: url(images/%E6%9C%AA%E6%A0%87%E9%A2%98-2_17.gif);
+	background-image: url(../images/%E6%9C%AA%E6%A0%87%E9%A2%98-2_17.gif);
 }
 
 #x672ax6807x9898-2-18_ {
@@ -159,7 +161,7 @@
 	top: 673px;
 	width: 220px;
 	height: 170px;
-	background-image: url(images/%E6%9C%AA%E6%A0%87%E9%A2%98-2_18.gif);
+	background-image: url(../images/%E6%9C%AA%E6%A0%87%E9%A2%98-2_18.gif);
 }
 
 #x672ax6807x9898-2-19_ {
@@ -168,7 +170,7 @@
 	top: 843px;
 	width: 220px;
 	height: 180px;
-	background-image: url(images/%E6%9C%AA%E6%A0%87%E9%A2%98-2_19.gif);
+	background-image: url(../images/%E6%9C%AA%E6%A0%87%E9%A2%98-2_19.gif);
 }
 
 #x672ax6807x9898-2-20_ {
@@ -177,7 +179,7 @@
 	top: 1023px;
 	width: 220px;
 	height: 82px;
-	background-image: url(images/%E6%9C%AA%E6%A0%87%E9%A2%98-2_20.gif);
+	background-image: url(../images/%E6%9C%AA%E6%A0%87%E9%A2%98-2_20.gif);
 }
 
 #x672ax6807x9898-2-21_ {
@@ -202,7 +204,7 @@
 	top: 1115px;
 	width: 887px;
 	height: 114px;
-	background-image: url(images/%E6%9C%AA%E6%A0%87%E9%A2%98-2_23.gif);
+	background-image: url(../images/%E6%9C%AA%E6%A0%87%E9%A2%98-2_23.gif);
 }
 form {
 	width:30px;
@@ -213,47 +215,53 @@ form {
 
 -->
 </style>
-<link href="style.css" rel="stylesheet" type="text/css" />
+<link href="../style.css" rel="stylesheet" type="text/css" />
 <!-- End Save for Web Styles -->
 <!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
 
 
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 <body style="background-color:#FFFFFF;">
 <!-- Save for Web Slices (未标题-2.psd) -->
 <div id="__01">
-	<div id="x672ax6807x9898-2-01_">
-		<img id="x672ax6807x9898_2_01" src="images/&#x672a;&#x6807;&#x9898;-2_01.gif" width="888" height="239" alt="" />
+  <div id="x672ax6807x9898-2-01_">
+	  <img id="x672ax6807x9898_2_01" src="../images/未标题-2_01.gif" width="888" height="239" alt="" />
   </div>
-	<div id="x672ax6807x9898-2-02_"> <a href="子页面1星闻趣事.html"><img id="x672ax6807x9898_2_02" src="images/&#x672a;&#x6807;&#x9898;-2_02.gif" width="221" height="85" alt="" /></a>
+	<div id="x672ax6807x9898-2-02_">
+		<img id="x672ax6807x9898_2_02" src="../images/未标题-2_02.gif" width="221" height="85" alt="" />
 	</div>
 	<div id="x672ax6807x9898-2-03_">
-		<img id="x672ax6807x9898_2_03" src="images/&#x672a;&#x6807;&#x9898;-2_03.gif" width="3" height="122" alt="" />
+		<img id="x672ax6807x9898_2_03" src="../images/未标题-2_03.gif" width="3" height="122" alt="" />
 	</div>
-	<div id="x672ax6807x9898-2-04_"> <a href="子页面2昆仑学堂.html"><img id="x672ax6807x9898_2_04" src="images/&#x672a;&#x6807;&#x9898;-2_04.gif" width="220" height="85" alt="" /></a>
+	<div id="x672ax6807x9898-2-04_">
+		<img id="x672ax6807x9898_2_04" src="../images/未标题-2_04.gif" width="220" height="85" alt="" />
 	</div>
 	<div id="x672ax6807x9898-2-05_">
-		<img id="x672ax6807x9898_2_05" src="images/&#x672a;&#x6807;&#x9898;-2_05.gif" width="2" height="122" alt="" />
+		<img id="x672ax6807x9898_2_05" src="../images/未标题-2_05.gif" width="2" height="122" alt="" />
 	</div>
-	<div id="x672ax6807x9898-2-06_"> <a href="子页面3宇宙视野.html"><img id="x672ax6807x9898_2_06" src="images/&#x672a;&#x6807;&#x9898;-2_06.gif" width="215" height="85" alt="" /></a>
+	<div id="x672ax6807x9898-2-06_">
+		<img id="x672ax6807x9898_2_06" src="../images/未标题-2_06.gif" width="215" height="85" alt="" />
 	</div>
-	<div id="x672ax6807x9898-2-07_"> <a href="子页面4星际战斗.html"><img id="x672ax6807x9898_2_07" src="images/&#x672a;&#x6807;&#x9898;-2_07.gif" width="227" height="85" alt="" /></a>
+	<div id="x672ax6807x9898-2-07_">
+		<img id="x672ax6807x9898_2_07" src="../images/未标题-2_07.gif" width="227" height="85" alt="" />
 	</div>
 	<div id="x672ax6807x9898-2-08_">
-		<img id="x672ax6807x9898_2_08" src="images/&#x672a;&#x6807;&#x9898;-2_08.gif" width="221" height="37" alt="" />
+		<img id="x672ax6807x9898_2_08" src="../images/未标题-2_08.gif" width="221" height="37" alt="" />
 	</div>
 	<div id="x672ax6807x9898-2-09_">
-		<img id="x672ax6807x9898_2_09" src="images/&#x672a;&#x6807;&#x9898;-2_09.gif" width="220" height="37" alt="" />
+		<img id="x672ax6807x9898_2_09" src="../images/未标题-2_09.gif" width="220" height="37" alt="" />
 	</div>
   <div id="x672ax6807x9898-2-10_">
-		<img id="x672ax6807x9898_2_10" src="images/&#x672a;&#x6807;&#x9898;-2_10.gif" width="442" height="37" alt="" />
+		<img id="x672ax6807x9898_2_10" src="../images/未标题-2_10.gif" width="442" height="37" alt="" />
 	</div>
-	<div id="x672ax6807x9898-2-11_"><img src="images/未标题-2.jpg" width="888" height="129"  alt=""/></div>
+	<div id="x672ax6807x9898-2-11_"><img src="../images/未标题-2.jpg" width="888" height="129"  alt=""/></div>
 	<div id="x672ax6807x9898-2-13_">
-		<img id="x672ax6807x9898_2_13" src="images/&#x672a;&#x6807;&#x9898;-2_13.gif" width="883" height="16" alt="" />
+		<img id="x672ax6807x9898_2_13" src="../images/未标题-2_13.gif" width="883" height="16" alt="" />
 	</div>
 	<div id="x672ax6807x9898-2-14_">
-		<img id="x672ax6807x9898_2_14" src="images/&#x672a;&#x6807;&#x9898;-2_14.gif" width="1" height="757" alt="" />
+		<img id="x672ax6807x9898_2_14" src="../images/未标题-2_14.gif" width="1" height="757" alt="" />
 	</div>
 	<div id="x672ax6807x9898-2-15_"><hr><p>&nbsp;<p><p><a2>会员登陆</a2><p>
 	  <a1>
@@ -261,13 +269,13 @@ form {
 	  <input type="text" /><a1>密码</a1>&nbsp;<input type="password" />
   <hr></div>
 	<div id="x672ax6807x9898-2-16_">
-		<img id="x672ax6807x9898_2_16" src="images/&#x672a;&#x6807;&#x9898;-2_16.gif" width="45" height="643" alt="" />
+		<img id="x672ax6807x9898_2_16" src="../images/未标题-2_16.gif" width="45" height="643" alt="" />
 	</div>
 	<div id="x672ax6807x9898-2-17_">
-	  <img src="images/Icon_net_105.ico"  alt=""/>
+	  <img src="../images/Icon_net_105.ico"  alt=""/>
       <a6>银河之光</a6>
 	  
-	  <img src="images/b3fb43166d224f4acb76087309f790529922d1e7.jpg" width="620" height="324"  alt=""/></p>&nbsp;<p> &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;银河在中国古代又称天河、银汉、星河、星汉、云汉，是横跨星空的一条乳白色亮带。银河在天鹰座与天赤道相交，在北半天球。银河在天球上勾画出一条宽窄不一的带，称为银道带，它的最宽处达30°，最窄处只有4°～5°，平均约20°，这只是银河系中的一部分。<br />
+	  <!-- TemplateBeginEditable name="EditRegion2" -->EditRegion2<!-- TemplateEndEditable --><img src="../images/b3fb43166d224f4acb76087309f790529922d1e7.jpg" width="620" height="324"  alt=""/></p>&nbsp;<p> &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;银河在中国古代又称天河、银汉、星河、星汉、云汉，是横跨星空的一条乳白色亮带。银河在天鹰座与天赤道相交，在北半天球。银河在天球上勾画出一条宽窄不一的带，称为银道带，它的最宽处达30°，最窄处只有4°～5°，平均约20°，这只是银河系中的一部分。<br />
 	    银河在中国文化中占有很重要的地位，有著名的汉族神话传说故事鹊桥相会。<br />
 	    银河只在晴天夜晚可见，是由无数暗星(恒星)的光引起的。银河不是银河系，而是银河系的一部分。银河系包含上千亿颗恒星、总质量大约是太阳质量的6,000亿至30,000亿倍，直径有约10万光年。<br />
 	    可参考“银河系”词条以区别二者。
@@ -282,12 +290,12 @@ form {
     <hr><a3>资源下载</a3><p>
     <table width="200" border="1">
   <tr>
-    <td><a href="Desktop.zip">精美图片</a></td>
-    <td><a href="Desktop.zip">震撼视频</a></td>
+    <td>精美图片</td>
+    <td>震撼视频</td>
   </tr>
   <tr>
-    <td><a href="Desktop.zip">海量音乐</a></td>
-    <td><a href="Desktop.zip">EVEOL</a></td>
+    <td>海量音乐</td>
+    <td>EVEOL</td>
   </tr>
 </table>
 </div>
@@ -299,13 +307,13 @@ form {
 
 	</div>
 	<div id="x672ax6807x9898-2-21_">
-		<img id="x672ax6807x9898_2_21" src="images/&#x672a;&#x6807;&#x9898;-2_21.gif" width="622" height="19" alt="" />
+		<img id="x672ax6807x9898_2_21" src="../images/未标题-2_21.gif" width="622" height="19" alt="" />
 	</div>
 	<div id="x672ax6807x9898-2-22_">
-		<img id="x672ax6807x9898_2_22" src="images/&#x672a;&#x6807;&#x9898;-2_22.gif" width="220" height="10" alt="" />
+		<img id="x672ax6807x9898_2_22" src="../images/未标题-2_22.gif" width="220" height="10" alt="" />
 	</div>
   <div id="x672ax6807x9898-2-23_"><div id="F">
-    <p>合作链接|<a href="链接外网/星空天文网.html">星空天文</a>|<a href="链接外网/中国天文科普网——中国网上天文台.html">中国天文网</a>|<a href="www.google.com">谷歌地球</a>|</p>
+    <p>合作链接|<a href="../星空天文/星空天文网.html">星空天文</a>|<a href="../星空天文/中国天文科普网——中国网上天文台.html">中国天文网</a>|<a href="../www.google.com">谷歌地球</a>|</p>
   
   <select>  
   <option value ="1">汉语</option>  
